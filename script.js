@@ -9,7 +9,7 @@ const products = [
     { id: 7, nama: "Martabak Telur", hargaEcer: 13500, hargaReseller: 11500, hargaAgen: 9500, gambar: "./martabak-telur.jpg" },
     { id: 8, nama: "Pisang Lumer Coklat", hargaEcer: 16000, hargaReseller: 13500, hargaAgen: 11500, gambar: "./pisang-lumer-coklat.jpg" },
     { id: 9, nama: "Pisang Lumer Milo", hargaEcer: 17000, hargaReseller: 14500, hargaAgen: 12500, gambar: "./pisang-lumer-milo.jpg" },
-    { id: 10, nama: "Tape Lumer", hargaEcer: 16000, hargaReseller: 13500, hargaAgen: 11500, gambar: ".tape-lumer.jpg" },
+    { id: 10, nama: "Tape Lumer", hargaEcer: 16000, hargaReseller: 13500, hargaAgen: 11500, gambar: "./tape-lumer.jpg" },
     { id: 11, nama: "Pastel Sayur Bihun", hargaEcer: 17000, hargaReseller: 14500, hargaAgen: 12500, gambar: "./pastel-sayur.jpg" },
     { id: 12, nama: "Risoles Rogout", hargaEcer: 19000, hargaReseller: 16500, hargaAgen: 13500, gambar: "./risoles-rogout.jpg" },
     { id: 13, nama: "Combro Pedas", hargaEcer: 16000, hargaReseller: 13500, hargaAgen: 11500, gambar: "./combro.jpg" },
